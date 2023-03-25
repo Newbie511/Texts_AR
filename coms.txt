@@ -1,0 +1,14 @@
+## to make folder into pack.loc then put it inside texts.pak/bin
+./loc.compiler.exe Extracted/ pack.loc
+
+to extract folders out of pack.loc
+./loc.extracter.exe pack.loc
+
+the encoding we need.
+(UCS-2 Little Endian) "UTF 16 LE BOM
+
+command to use in powershell
+cd C:\Users\OBSIDIAN_PC\Desktop\translation\7.0new
+
+command to use to make pack.loc
+./loc.compiler.exe Extracted/ pack.loc
