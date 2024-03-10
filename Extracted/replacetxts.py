@@ -2,8 +2,8 @@ import os
 import shutil
 
 # Source and destination directories
-source_dir = r"C:\arabic 4.0\Extracted\World\Quests"
-dest_dir = r"C:\Users\al5ya\OneDrive\Documents\GitHub\Texts_AR\Extracted\World\Quests"
+source_dir = r"C:\arabic 4.0\Extracted\World\Ask"
+dest_dir = r"C:\Users\al5ya\OneDrive\Documents\GitHub\Texts_AR\Extracted\World\Ask"
 
 # Walk through the source directory
 for root, _, files in os.walk(source_dir):
