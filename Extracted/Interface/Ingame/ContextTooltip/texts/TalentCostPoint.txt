@@ -1,1 +1,0 @@
-<tip_base><rs class = "style">عدد نقاط المهارة المطلوب: <r name="value"/></rs></tip_base>

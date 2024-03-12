@@ -1,1 +1,0 @@
-<tip_base class="tip_grey"><rs class = "style">وقت الإلقاء: <r name="value"/>.</rs></tip_base>
